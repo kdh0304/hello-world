@@ -1,5 +1,4 @@
-# hello-world
-
-Hi! I'm Dong Hwa Kim, Associate Professor at Hanyang University.
-
-This repository is for practicing Git, GitHub, and Markdown in *Musicology of Desease,Disability, and Suffering* (Fall 2026).
+# Hello World
+Hi! I'm Donghwa Kim, a composition major at Hanyang University.
+This repository is for practicing Git, GitHub, and Markdown in
+*Musicology of Disease, Disability, and Suffering* (Fall 2026).
